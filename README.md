@@ -1,5 +1,24 @@
 # 🚀 Xray Multi-Channel Config Editor (Dynamic Tunneling Hub)
 
+<img width="1744" height="923" alt="image" src="https://github.com/user-attachments/assets/869207f0-1cbf-4768-b0a5-70941b2e9826" />
+
+
+---
+
+http
+
+````
+curl -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/ExtremeDot/eXtreme-Dokodemo-door-Tunnel-Creator/master/ex-relay-manager.sh?$RANDOM" -o ex-relay-manager.sh
+chmod +x ex-relay-manager.sh
+mv ex-relay-manager.sh /usr/local/bin/eXrelayManager && chmod +x /usr/local/bin/eXrelayManager
+```
+
+```
+eXrelayManager
+```
+---
+
+
 یک ابزار تحت وب (Single Page Application) فوق‌العاده سبک، سریع و کاربردی برای **مدیریت، ادغام و ساخت همزمان کانفیگ‌های تانل مولتی‌سرور (تا ۱۰ سرور موازی)** برای هسته Xray/V2Ray بر پایه ساختار استاندارد لودر `conf.d`.
 
 این ابزار به شما کمک می‌کند تا بدون نیاز به درگیر شدن با ساختارهای پیچیده JSON و خطاهای سینتکس، خروجی‌های معتبر و تفکیک‌شده برای فایل‌های `01_inbounds.json`، `02_outbounds.json` و `03_routing.json` سرور ایران خود تولید کنید.
