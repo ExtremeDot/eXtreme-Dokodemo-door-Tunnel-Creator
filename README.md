@@ -15,7 +15,7 @@
 ---
 
 
-````
+```
 curl -H 'Cache-Control: no-cache' "https://raw.githubusercontent.com/ExtremeDot/eXtreme-Dokodemo-door-Tunnel-Creator/master/ex-relay-manager.sh?$RANDOM" -o ex-relay-manager.sh
 chmod +x ex-relay-manager.sh
 mv ex-relay-manager.sh /usr/local/bin/eXrelayManager && chmod +x /usr/local/bin/eXrelayManager
